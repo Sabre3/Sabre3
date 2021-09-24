@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sabre3
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning how to game
-- 💞️ I’m looking to collaborate on gaming
-- 📫 How to reach me: Just yell lol
+- 👀 I’m interested in cybersecurity and ranting at the output of gpresult /h
+- 🌱 I’m currently learning how to improve networking protocols and poking UDP sockets
+- 💞️ I’m looking to collaborate on P2P and decentral network projects
+- 📫 How to reach me: Just yell lol (or email me)
 
 <!---
 sabre3/sabre3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
