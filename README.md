@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sabre3
+- 👋 Hi, I’m @sabre3 (and @aredspy)
 - 👀 I’m interested in cybersecurity and ranting at the output of gpresult /h
 - 🌱 I’m currently learning how to improve networking protocols and poking UDP sockets
 - 💞️ I’m looking to collaborate on P2P and decentral network projects
